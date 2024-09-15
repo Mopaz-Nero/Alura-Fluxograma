@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(247, 253, 189);
+    color: rgb(117, 85, 11);
+    font-family: "Comic Neue", cursive;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(230, 218, 172);
+    color: rgb(255, 255, 255);
+    font-family: "Comic Neue", cursive;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.sim {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 80%;
+}
+
+
