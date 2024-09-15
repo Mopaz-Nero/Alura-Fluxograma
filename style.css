@@ -19,7 +19,7 @@ button {
     display: none;
 }
 
-.passo.sim {
+.passo.ativo {
     display:block;
 }
 
@@ -29,7 +29,5 @@ main {
 }
 
 img{
-    max-width: 80%;
+    max-width: 70%;
 }
-
-
